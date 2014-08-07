@@ -3,7 +3,7 @@
 Infra for Go Dialy
 
 ## Environment
-- chefdk: 0.2.0-2
+- chefdk: 0.2.0
 - berkshelf: 3.1.3
 
 
