@@ -21,7 +21,7 @@ Infra for Go Dialy
     <th>Default</th>
   </tr>
   <tr>
-    <td><tt>['chef-go-dialy']['bacon']</tt></td>
+    <td><tt>['go-dialy']['bacon']</tt></td>
     <td>Boolean</td>
     <td>whether to include bacon</td>
     <td><tt>true</tt></td>
@@ -30,14 +30,14 @@ Infra for Go Dialy
 
 ## Usage
 
-### chef-go-dialy::default
+### go-dialy::default
 
-Include `chef-go-dialy` in your node's `run_list`:
+Include `go-dialy` in your node's `run_list`:
 
 ```json
 {
   "run_list": [
-    "recipe[chef-go-dialy::default]"
+    "recipe[go-dialy::default]"
   ]
 }
 ```
