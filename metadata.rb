@@ -1,4 +1,4 @@
-name             'chef-go-dialy'
+name             'go-dialy'
 maintainer       'Hideyuki Takei'
 maintainer_email 'takehide22@gmail.com'
 license          'All rights reserved'
