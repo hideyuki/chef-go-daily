@@ -1,0 +1,12 @@
+DEPENDENCIES
+  chef-go-dialy
+    path: .
+    metadata: true
+  golang
+    git: git@github.com:SimpleFinance/chef-golang.git
+    revision: 0e45b32b5e0ef41536c39d435edfbcfae02221c7
+
+GRAPH
+  chef-go-dialy (0.1.0)
+    golang (>= 0.0.0)
+  golang (1.0.0)

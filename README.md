@@ -2,9 +2,14 @@
 
 Infra for Go Dialy
 
+## Environment
+- chefdk: 0.2.0-2
+- berkshelf: 3.1.3
+
+
 ## Supported Platforms
 
-TODO: List your supported platforms.
+- ubuntu 14.04
 
 ## Attributes
 
@@ -48,4 +53,4 @@ Include `chef-go-dialy` in your node's `run_list`:
 
 ## License and Authors
 
-Author:: YOUR_NAME (<YOUR_EMAIL>)
+Author:: Hideyuki Takei (takehide22@gmail.com)
